@@ -26,7 +26,8 @@ var SLIDES = [
 
 	{
 		"gist": "https://gist.github.com/substack/5075355",
-		"notes": "npm size - number of modules; node philosophy; package manager war"
+		"notes": "npm size - number of modules; node philosophy; package manager war",
+		"cls": "darker"
 	},
 
 	{
